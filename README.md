@@ -22,18 +22,19 @@ npm install -g automate-portfolio
 # Create a new portfolio
 automate-portfolio create my-awesome-portfolio
 # Follow the interactive prompts to add:
-# - Your personal details
-# - Skills and technologies
-# - Education history
-# - Work experience
-# - Social links
-# Navigate to your portfolio
+ - Your personal details
+ - Skills and technologies
+ - Education history
+ - Work experience
+ - Social links
+ Navigate to your portfolio
 cd my-awesome-portfolio
 ## 🎯 Example
 
-
 automate-portfolio create john-portfolio
+
 cd john-portfolio
+
 open index.html  \# Opens your beautiful portfolio!
 
 
@@ -71,5 +72,6 @@ Found a bug or want to contribute? Check out the [GitHub repository](https://git
 ---
 
 **Made with ❤️ for the developer community**
+
 
 
