@@ -1,0 +1,71 @@
+{
+  "name": "@savyagupta/automate-portfolio-cli",
+  "version": "1.0.0",
+  "description": " A professional CLI tool to generate stunning developer portfolio websites with GitHub integration",
+  "main": " index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "echo 'Preparing package...'",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savyagupta-2004/automate-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "cli",
+    "developer",
+    "website",
+    "generator",
+    "react",
+    "nextjs",
+    "github",
+    "template",
+    "professional"
+  ],
+  "author": "Savya Gupta <guptasavya667@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/savyagupta-2004/automate-portfolio/issues"
+  },
+  "homepage": "https://github.com/savyagupta-2004/automate-portfolio#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "commander": "^14.0.0",
+    "figlet": "^1.5.2",
+    "fs-extra": "^11.3.1",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  },
+  "bin": {
+    "create-portfolio": "./bin/cli.js",
+    "portfolio": "./bin/cli.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin/",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "lib/",
+    "README.md"
+  ]
+}

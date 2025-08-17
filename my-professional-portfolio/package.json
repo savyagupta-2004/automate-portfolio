@@ -1,0 +1,12 @@
+{
+  "name": "my-professional-portfolio",
+  "version": "1.0.0",
+  "description": "Full-stack developer passionate about creating amazing web experiences",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Professional portfolio created successfully! Open index.html in your browser.'",
+    "build": "echo 'Build command for react'"
+  },
+  "author": "my-professional-portfolio",
+  "license": "MIT"
+}
