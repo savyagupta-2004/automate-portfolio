@@ -1,6 +1,6 @@
 
 
-# 🚀 Automate Portfolio
+# Automate Portfolio
 
 **Generate professional developer portfolios with a single command!**
 
@@ -72,6 +72,7 @@ Found a bug or want to contribute? Check out the [GitHub repository](https://git
 ---
 
 **Made with ❤️ for the developer community**
+
 
 
 
